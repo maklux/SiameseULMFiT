@@ -1,7 +1,12 @@
-# SiameseULMFiT
+# SiameseULMFiT (DE Version)
 ## ULMFiT + Siamese Network for Sentence Vectors
 
 This an attempt to add an [InferSent](https://arxiv.org/pdf/1705.02364.pdf) type Siamese network on top of the Fast.ai [ULMFiT](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html) archecture.
+
+## Requirements
+- Python 3.6
+- PyTorch 0.4.1
+- FastAI 0.7.2
 
 ## Running the notebook
 * The fast.ai library must be installed and the fastai folder available in the root folder
